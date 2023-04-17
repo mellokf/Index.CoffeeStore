@@ -30,12 +30,14 @@ body {
     padding: 20px;
     max-width: 500px;
   }
+
   img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: -25px;
+    margin-top: -20px;
   }
+
   hr {
     height: 2px;
     background-color: brown;
@@ -91,4 +93,4 @@ body {
   
   a:active {
     color: brown;
-  }  
+  }
